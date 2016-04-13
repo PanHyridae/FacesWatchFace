@@ -10,6 +10,14 @@ creating watch faces with the Interactive Watch Face API, or just making a watch
 face in general. 
 (Note: This has NOT been tested on Round devices or emulators. Right now, it 
 has only been tested on square devices)
+
+Emotions:
+
+Touch - Confused
+
+Nothing/Touch Cancel - Happy
+
+Tap - Laughing (Three Seconds)
 ````
 Copyright 2016 Marlon Jones
 

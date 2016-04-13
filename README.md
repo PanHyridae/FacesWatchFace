@@ -1,4 +1,4 @@
-# FacesWatchFace
+# Faces Watch Face
 An Android Experiment - A simple face with personality
 
 Faces is a demonstration of the Interactive Watch Face API for Android Wear, 

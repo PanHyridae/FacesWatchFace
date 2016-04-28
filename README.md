@@ -4,7 +4,8 @@ An Android Experiment - A simple face with personality
 ![alt tag](https://raw.githubusercontent.com/MJonesDev/FacesWatchFace/master/StoreGraphic.png)
 
 Faces is a demonstration of the Interactive Watch Face API for Android Wear, 
-made as an Android Experiment. Based on your touch, Jake (the name of this face)
+made as an Android Experiment for the Android Experiments Google I/O contest
+(Which, sadly, did not win/place). Based on your touch, Jake (the name of this face)
 will emote in several different ways. This code can be used best to give insight on
 creating watch faces with the Interactive Watch Face API, or just making a watch
 face in general. 
